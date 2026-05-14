@@ -37,7 +37,7 @@ By the end of this curriculum, you will be confident building with:
 ### ═══ PHASE 1: JavaScript Foundations ═══
 - [ ] [1. How the internet works (HTTP, client, server, request/response cycle)](./phase-1-js-foundation/01-how-the-internet-works)
 - [ ] [2. What JavaScript is and how Node.js lets it run on a server](./phase-1-js-foundation/02-what-is-javascript)
-- [ ] 3. Variables: let, const, var — and when to use each
+- [ ] [3. Variables: let, const, var — and when to use each](./phase-1-js-foundation/03-variables-in-js/)
 - [ ] 4. Data types: strings, numbers, booleans, null, undefined
 - [ ] 5. Conditionals: if/else, switch, ternary operator
 - [ ] 6. Loops: for, while, for...of, for...in
